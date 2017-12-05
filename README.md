@@ -2,7 +2,9 @@
 
 ## Prereq
 Install obd package (_http://python-obd.readthedocs.io/en/latest/_) via
-``` pip install obd
+
+``` 
+pip install obd
 ```
 
 ## How to run
